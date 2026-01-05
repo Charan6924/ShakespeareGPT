@@ -1,0 +1,33 @@
+# --- Python & Runtime ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Virtual Environments ---
+# Based on your screenshots, you use 'venv'
+venv/
+env/
+.env
+.venv
+
+# --- Mac OS ---
+.DS_Store
+
+# --- IDE & Editors ---
+.vscode/
+.idea/
+*.swp
+
+# --- Jupyter / Colab ---
+.ipynb_checkpoints/
+
+# --- Project Data & Models ---
+# Don't push large datasets
+input.txt
+
+# Don't push trained model weights (they are large binaries)
+*.pt
+*.pth
+*.bin
+out/
