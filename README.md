@@ -17,17 +17,3 @@ The model is a **Decoder-only Transformer** featuring:
 * Layers: 6
 * Attention Heads: 6
 * Parameters: ~10 Million
-
-## 📂 Project Structure
-The code is modularized for clarity and scalability:
-
-```text
-Shakespeare-GPT/
-├── data/
-│   └── input.txt          # Training corpus (Complete Shakespeare)
-├── modules/
-│   ├── attention_head.py  # Head & MultiHeadAttention classes
-│   ├── feedforward.py     # FeedForward network 
-│   └── residual_block.py  # Transformer Block (Attention + FFN + Residuals)
-├── bigram.py              # Main training script & Model assembly
-└── README.md
