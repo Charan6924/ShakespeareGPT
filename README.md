@@ -17,3 +17,22 @@ The model is a **Decoder only Transformer** featuring:
 * Layers: 6
 * Attention Heads: 6
 * Parameters: ~10 Million
+
+
+## Sample output
+Where he is possible castle, that
+hadst thou not pursuit, or in it in his rock grave;
+The wearing shows faults, to cowards are; and serve,
+I bent lies, I chase dishonour'd on Rome.
+
+CORIOLANUS:
+Marcius doth not the prove is the morth,
+For whatsoever sit to-gao
+Of He applot of this bed my friends,
+Sending om the bloody deep.
+
+First Coriol:
+Anon that I advert in Lord Aumerle to taught:
+O pray my with weak, I say never entreaties to agre?
+One so Bondaggordon that has get to chese,
+That might never 
